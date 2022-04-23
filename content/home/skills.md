@@ -28,9 +28,12 @@ feature:
   - icon: git
     icon_pack: fab
     name: Git
-  - icon: C
-    icon_pack: fas
-    name: "C"
+  - icon: linux
+    icon_pack: fab
+    name: Linux
+  - icon: digital-ocean
+    icon_pack: fab
+    name: "Digital Ocean"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

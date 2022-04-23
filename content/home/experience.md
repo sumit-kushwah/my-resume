@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -31,10 +31,9 @@ experience:
     date_end: ""
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * As part of SOA team, developing and managing micro- services related to indiaMART banned keyword detection system.
+        * Working on machine learning projects based on NLP problems. 
+        * Technologies: GOLANG, PYTHON, AWS Sagemaker etc.
 
   - title: Associate Software Engineer
     company: iQuanti
@@ -43,7 +42,9 @@ experience:
     location: Bangalore
     date_start: "2021-11-08"
     date_end: "2021-12-31"
-    description: Worked in Python and Django web framework.
+    description: |2-
+        * Worked as backend developer for product ALPS (SEO Tool).
+        * Worked on Python and Django web framework.
 
   - title: Software Engineer Intern
     company: Vaizle
@@ -52,7 +53,12 @@ experience:
     location: Mohali
     date_start: "2020-04-06"
     date_end: "2021-10-31"
-    description: Worked on Angular, NestJs and Firebase.
+    description: |2-
+        * Implemented and updated multiple application modules for product VAIZLE under the direction of senior software developers. 
+        * Created Admin Panel website for client FITELO(Health Startup) where their dietitian can update diets for their customers. 
+        * Created CRUD REST Api for FITELO mobile App and Admin
+          Panel website. Implemented functionalities like pagination, sorting, custom field selection. 
+        * Technologies: Typescript, Angular, NestJs, Firebase, Mysql etc.
 
 design:
   columns: "2"
