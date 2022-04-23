@@ -18,9 +18,10 @@ bio: My work interests include web development, problem solving and programmable
 
 # Interests to show in About widget
 interests:
-  - Software Design
-  - Programming
+  - Software Development
   - Entrepreneurship
+  - Problem solving
+  - Mathematics
 
 # Education to show in About widget
 education:
@@ -28,6 +29,12 @@ education:
     - course: B.tech + M.tech (Dual Degree) in CSE
       institution: National Institute of Technology, Hamirpur
       year: 2022
+    - course: Intermediate(12th) Examination
+      institution: Adarsh Rashtriya Inter College, Mainpuri
+      year: 2016
+    - course: High School(10th) Examination
+      institution: Adarsh Rashtriya Inter College, Mainpuri
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
