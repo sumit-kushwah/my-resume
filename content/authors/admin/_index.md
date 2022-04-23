@@ -14,13 +14,13 @@ organizations:
     url: https://indiamart.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My work interests include web development, problem solving and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Web developement
-  - Deep Learning
-  - Computer vision
+  - Software Design
+  - Programming
+  - Entrepreneurship
 
 # Education to show in About widget
 education:
@@ -34,9 +34,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: free-code-camp
-    icon_pack: fab
-    link: https://www.freecodecamp.org/sumit-kushwah
   - icon: github
     icon_pack: fab
     link: https://github.com/sumit-kushwah
@@ -49,16 +46,13 @@ social:
   - icon: hackerrank
     icon_pack: fab
     link: https://www.hackerrank.com/sumitkushwah1729
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ksumit100
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/sumit-kushwah.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sumitkushwah1729@gmail.com"
@@ -67,6 +61,7 @@ email: "sumitkushwah1729@gmail.com"
 highlight_name: true
 ---
 
-Sumit Kushwah is a Software Engineer specialized in deep learning, machine learning and computer vision. He is working at Indiamart.com in Noida, India now. Previously, he has been working at iQuanti.com in Bengalore, India, xorlabs.in in Mohali, India.
+Focused and quick-learning Software Engineer with 1+ years of experience in computer science, programming, problem solving and
+web development for various personal projects and internships.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/sumit-kushwah.pdf" "newtab" >}}resumé{{< /staticref >}}.
