@@ -69,4 +69,4 @@ highlight_name: true
 
 Sumit Kushwah is a Software Engineer specialized in deep learning, machine learning and computer vision. He is working at Indiamart.com in Noida, India now. Previously, he has been working at iQuanti.com in Bengalore, India, xorlabs.in in Mohali, India.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/sumit-kushwah.pdf" "newtab" >}}resumé{{< /staticref >}}.
